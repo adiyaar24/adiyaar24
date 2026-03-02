@@ -19,143 +19,113 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-> *"Operating at the intersection of DevOps, cloud architecture, and secure software supply chains — translating complex technical risk into pragmatic, scalable architectures."*
+Solutions architect with a builder's mindset — working at the intersection of **DevOps**, **cloud architecture**, and **secure software supply chains**.
 
-I'm a **Solutions Architect** and **Senior Implementation Engineer at [Harness](https://harness.io)** with a builder's mindset, passionate about designing resilient and trustworthy software delivery systems.
-
-- 🏢 **Currently working at** [Harness](https://harness.io) — Bangalore, India
-- 🤖 **Passionate about** AI-augmented DevOps and AI-native platform design
-- 🔐 **Focused on** secure software supply chains, governance, and delivery acceleration
-- 🌱 **Currently learning** Go, Terraform & Cloud-Native Architecture
-- 💬 **Ask me about** Flutter, Java, DevOps, CI/CD, Kubernetes, Cricket 🏏
-- ⚡ **Fun fact** I chill hard on weekends — balance is everything!
-
----
-
-## ✍️ Featured Writing @ Harness
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🤖 Agentic AI in DevOps</h3>
-      <p><strong>The Architect's Guide to Autonomous Infrastructure</strong></p>
-      <p>A deep dive into how agentic AI systems are reshaping infrastructure decisions, deployment pipelines, and operational intelligence at scale.</p>
-      <a href="https://www.harness.io/blog/agentic-ai-in-devops-the-architects-guide-to-autonomous-infrastructure">
-        <img src="https://img.shields.io/badge/Read%20Article-%E2%86%92-0EA5E9?style=for-the-badge" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🛡️ Architecting Trust</h3>
-      <p><strong>The Blueprint for a "Golden Standard" Software Supply Chain</strong></p>
-      <p>How to design software supply chains built on verifiable integrity, governance at every stage, and delivery systems you can actually trust.</p>
-      <a href="https://www.harness.io/blog/architecting-trust-the-blueprint-for-a-golden-standard-software-supply-chain">
-        <img src="https://img.shields.io/badge/Read%20Article-%E2%86%92-0EA5E9?style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Frameworks & Platforms
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### DevOps & Cloud
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Harness](https://img.shields.io/badge/Harness-00ADE4?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Databases & Design
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adiyaar24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiyaar24&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiyaar24&theme=tokyonight&hide_border=true&background=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=FF6B35&currStreakLabel=0EA5E9" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adiyaar24&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🔭 What I'm Working On
+Currently at [Harness](https://harness.io) in Bangalore, translating complex technical risk into pragmatic, scalable architectures. Passionate about AI-augmented DevOps and AI-native platform design — where automation can strengthen governance and accelerate delivery without sacrificing trust.
 
 ```yaml
-current_focus:
-  - AI-native DevOps platform design at Harness
-  - Secure software supply chain architectures
-  - Cloud-native infrastructure with Go & Terraform
-  - Terraform provider development (harness/terraform-provider-harness)
-
-learning:
-  - Go (Golang) for cloud-native tooling
-  - Terraform for IaC at scale
-  - AI augmentation in deployment pipelines
-
-interests:
-  - Agentic AI in software delivery
-  - DevSecOps & supply chain security
-  - Resilience engineering & chaos testing
+role:       Senior Implementation Engineer @ Harness
+location:   Bangalore, India
+currently:  AI-native DevOps platform design & secure supply chain architecture
+learning:   Go · Terraform · Cloud-Native Architecture
+ask me:     Flutter · Java · DevOps · CI/CD · Cricket
+contact:    adityakashyap3190@gmail.com
 ```
 
 ---
 
-## 🤝 Let's Connect
+## Featured Writing
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Agentic AI in DevOps**
+
+*The Architect's Guide to Autonomous Infrastructure*
+
+How agentic AI systems are reshaping infrastructure decisions, deployment pipelines, and operational intelligence — with concrete patterns built for production.
+
+[![Read Article](https://img.shields.io/badge/Read%20on%20Harness-0369a1?style=flat-square&logoColor=white)](https://www.harness.io/blog/agentic-ai-in-devops-the-architects-guide-to-autonomous-infrastructure)
+
+</td>
+<td width="50%" valign="top">
+
+**Architecting Trust**
+
+*The Blueprint for a "Golden Standard" Software Supply Chain*
+
+Designing software supply chains with verifiable integrity and governance at every stage — from the first commit to production.
+
+[![Read Article](https://img.shields.io/badge/Read%20on%20Harness-0369a1?style=flat-square&logoColor=white)](https://www.harness.io/blog/architecting-trust-the-blueprint-for-a-golden-standard-software-supply-chain)
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-I'm always open to interesting conversations about **DevOps**, **AI-native platforms**, **cloud architecture**, or just a good cricket debate 🏏
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityakashyap3190)
-[![Read My Blog](https://img.shields.io/badge/Read%20My%20Articles-00ADE4?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.harness.io/authors/aditya-kashyap)
-[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakashyap3190@gmail.com)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adiyaar24&theme=github_dark&hide_border=true" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adiyaar24&theme=github_dark&hide_border=true&utcOffset=5.5" height="150" />
 
 </div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adiyaar24&bg_color=0a0f1e&color=38bdf8&line=0369a1&point=7dd3fc&area=true&area_color=0369a1&hide_border=true&custom_title=Contribution+Activity" width="92%" />
+</div>
+
+---
+
+## Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-0a0f1e?style=for-the-badge&logo=openjdk&logoColor=38bdf8)&nbsp;
+![Go](https://img.shields.io/badge/Go-0a0f1e?style=for-the-badge&logo=go&logoColor=38bdf8)&nbsp;
+![Python](https://img.shields.io/badge/Python-0a0f1e?style=for-the-badge&logo=python&logoColor=38bdf8)
+![Dart](https://img.shields.io/badge/Dart-0a0f1e?style=for-the-badge&logo=dart&logoColor=38bdf8)&nbsp;
+
+**Frameworks & Platforms**
+
+![Flutter](https://img.shields.io/badge/Flutter-0a0f1e?style=for-the-badge&logo=flutter&logoColor=7dd3fc)&nbsp;
+![Android](https://img.shields.io/badge/Android-0a0f1e?style=for-the-badge&logo=android&logoColor=7dd3fc)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-0a0f1e?style=for-the-badge&logo=nodedotjs&logoColor=7dd3fc)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0f1e?style=for-the-badge&logo=tensorflow&logoColor=7dd3fc)
+
+**DevOps & Cloud**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0a0f1e?style=for-the-badge&logo=kubernetes&logoColor=bae6fd)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-0a0f1e?style=for-the-badge&logo=terraform&logoColor=bae6fd)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-0a0f1e?style=for-the-badge&logo=docker&logoColor=bae6fd)&nbsp;
+![Git](https://img.shields.io/badge/Git-0a0f1e?style=for-the-badge&logo=git&logoColor=bae6fd)&nbsp;
+![Firebase](https://img.shields.io/badge/MongoDB-0a0f1e?style=for-the-badge&logo=MongoDB&logoColor=bae6fd)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0a0f1e?style=for-the-badge&logo=mysql&logoColor=bae6fd)
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-0a0f1e?style=for-the-badge&logo=figma&logoColor=e2e8f0)&nbsp;
+
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00CCFF,100:0066FF&height=120&section=footer&animation=fadeIn" />
+Always open to conversations about DevOps, AI-native platforms, cloud architecture, or a solid cricket debate.
 
-*"Turning forward-looking ideas into production-ready systems — one commit at a time."*
+<br/>
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/adityakashyap3190)&nbsp;
+[![Read Articles](https://img.shields.io/badge/Read%20Articles-0a0f1e?style=for-the-badge&logo=rss&logoColor=38bdf8)](https://www.harness.io/authors/aditya-kashyap)&nbsp;
+[![Get In Touch](https://img.shields.io/badge/Get%20In%20Touch-0a0f1e?style=for-the-badge&logo=gmail&logoColor=38bdf8)](mailto:adityakashyap3190@gmail.com)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,50:38bdf8,100:0a0f1e&height=130&section=footer&animation=fadeIn" />
 
 </div>
